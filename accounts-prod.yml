@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to my API prod"
+  message: "Welcome to my API production"
   contactDetails:
     name: "Will Smith"
     email: "willsmith@sheridancollege.ca"
