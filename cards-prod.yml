@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to my API"
+  message: "Welcome to my API prod"
   contactDetails:
     name: "Will Smith"
     email: "willsmith@sheridancollege.ca"
