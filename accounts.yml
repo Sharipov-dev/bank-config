@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to my API"
+  message: "Welcome to my API default"
   contactDetails:
     name: "Arthur"
     email: "sharipov@sheridancollege.ca"
